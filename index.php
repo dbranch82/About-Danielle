@@ -3,10 +3,14 @@
 	<head>
 		<title>About Danielle</title>
 	</head>
-	<body><p>I am 34 years old. I am raising eight children. I have recently lost 175 pounds and am excited about my new
-	lifestyle and the new opportunities that have presented themselves this year!</p>
-		<p>I have a wonderful husband who helps me care for my children while I pursue my dreams. He is from Acoma pueblo
-		some of our favorite foods to cook are fry bread and enchiladas</p>
+	<body><p>I am a famous chef, restaurateur, author of cookery books, and media personality. My speciality is Italian
+			cuisine. My Fans and followers throughout the world have re-discovered the joy of cooking through my many fresh
+			and delicious dishes and my countless books. I have also appeared on a number of food and cooking-related
+			reality shows, where I was called for my expertise and guidance or as a judge. Although I started my career
+			as a pastry chef, I now own and co-own several leading restaurants, related enterprises and non-profit
+			organizations throughout the world.
+		</p>
+		<img src="images/tarts.jpg">
 		<img src="images/danielleface.jpg">
-	</body>
+		<img src="images/surfandturf.jpg"</body>
 </html>
